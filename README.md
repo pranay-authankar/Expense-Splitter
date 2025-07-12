@@ -18,8 +18,11 @@ A simple Python command-line app to split expenses among group members fairly.
 ## Example
 
 Who Paid: Aman
+
 Amount: 900
+
 Paid For: Aman
+
 Paid For: Riya
 
 Result:
